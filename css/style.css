@@ -641,6 +641,22 @@ img {
     right: 20px;
   }
 }
+.header__ukraine {
+  background: #000;
+  color: #fff;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header__ukraine-link {
+  color: #61dafb;
+  max-width: 300px;
+  text-align: center;
+  font-size: 18px;
+}
+
 .content__slider {
   margin-bottom: 60px;
 }
